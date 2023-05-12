@@ -4,9 +4,13 @@ An example of making requests on the backen of an e-commerce website
 
 ## Table of Contents
 
-  - [Motivation](#Motivation and Technologies)
-  - [Functionality](#Functionality)
-  - [Challenges](#Challenges)
+- [13ORM-E-Commerce](#13orm-e-commerce)
+  - [Table of Contents](#table-of-contents)
+  - [Motivation](#motivation)
+  - [Technologies](#technologies)
+    - [Functionality](#functionality)
+    - [Functionality](#functionality-1)
+  - [Challenges](#challenges)
   
   ## Motivation
 
@@ -22,12 +26,13 @@ An example of making requests on the backen of an e-commerce website
   - sequelize package
   - insomnia
 
-## Functionality 
-
+### Functionality 
 Walkthrough of using Insomnia to make requests to the server
-![insomnia walkthrough](https://drive.google.com/file/d/1CONWu8ZCnGqhRaG0jkcP4QHOJD9rdm53/view)
 
-![insomnia walkthrough](https://drive.google.com/file/d/1pn_CM13WfcyWrfMRPP_qSrOpHxwhwB02/view)
+[insomnia walkthrough](https://drive.google.com/file/d/1CONWu8ZCnGqhRaG0jkcP4QHOJD9rdm53/view)
+
+### Functionality
+[insomnia walkthrough](https://drive.google.com/file/d/1pn_CM13WfcyWrfMRPP_qSrOpHxwhwB02/view)
 
 ## Challenges
 - The major challenge faced when creating this application was fuguring out how to get the requests to run without returning 400 errors
